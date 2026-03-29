@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Paul Concepcion 👋
 
-<!--
-**ConcepcionPaul/ConcepcionPaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student  
+💻 Aspiring Software / Web Developer  
+🚀 Interested in backend, desktop apps, and practical systems  
+📌 Currently building school and personal development projects
 
-Here are some ideas to get you started:
+## Tech Stack
+- Java
+- Python
+- HTML, CSS, JavaScript
+- MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **TapsiloganPOS** – Java-based point of sale system for a restaurant
+- **Fuzzy-Logic_Shower** – Python system that uses fuzzy logic for water temperature adjustment
+- **ConcepcionPaul.github.io** – My personal portfolio website
+
+## About Me
+I enjoy building practical systems that solve real-world problems. I am currently improving my skills in software development, backend logic, databases, and project documentation.
+
+## Contact
+- Email: your-email-here
+- Portfolio: your-portfolio-link
