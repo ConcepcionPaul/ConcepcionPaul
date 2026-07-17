@@ -5,14 +5,13 @@
 </p>
 
 <p align="center">
-  Web Developer &nbsp;|&nbsp; Front-End &amp; Practical Web Projects
+  Web Developer
 </p>
 
 ---
 
 ## About Me
 
-* I'm a web developer who enjoys building simple and responsive websites
 * I mainly use HTML, CSS, JavaScript, Git, and GitHub
 * I like creating projects that are clean, useful, and easy to use
 * I'm always improving my skills through practice and real projects
