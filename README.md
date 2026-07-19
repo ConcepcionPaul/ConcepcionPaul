@@ -37,12 +37,9 @@
 
 ## Featured Projects
 
-* [Votto_system](https://github.com/ConcepcionPaul/Votto_system) - A voting system built with Node.js, Express, and MySQL
-* [StarBucks-Ecommerce](https://github.com/ConcepcionPaul/StarBucks-Ecommerce) - A Starbucks-style e-commerce web app using PHP, HTML, CSS, and JavaScript
-* [Agri_fresh](https://github.com/ConcepcionPaul/Agri_fresh) - A simple e-commerce web app with a PHP backend and vanilla frontend
-* [DataSaurus](https://github.com/ConcepcionPaul/DataSaurus) - A Flask and MongoDB search engine with a vanilla JavaScript frontend
 * [ConcepcionPaul.github.io](https://github.com/ConcepcionPaul/ConcepcionPaul.github.io) - My personal portfolio website
-* [Nytimes_Clone](https://github.com/ConcepcionPaul/Nytimes_Clone) - A front-end recreation published at [concepcionpaul.github.io/Nytimes_Clone](https://concepcionpaul.github.io/Nytimes_Clone/)
+* [Fuzzy-Logic_Shower](https://github.com/ConcepcionPaul/Fuzzy-Logic_Shower) - A Python system that uses fuzzy logic to adjust shower water temperature
+* [TapsiloganPOS](https://github.com/ConcepcionPaul/TapsiloganPOS) - An object-oriented Java and Maven point-of-sale system for a Tapsilogan restaurant
 
 ---
 
