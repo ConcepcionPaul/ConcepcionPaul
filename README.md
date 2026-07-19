@@ -37,9 +37,12 @@
 
 ## Featured Projects
 
-* [ConcepcionPaul.github.io](https://github.com/ConcepcionPaul/ConcepcionPaul.github.io) - My personal portfolio website
-* [Fuzzy-Logic_Shower](https://github.com/ConcepcionPaul/Fuzzy-Logic_Shower) - A Python system that uses fuzzy logic to adjust shower water temperature
-* [TapsiloganPOS](https://github.com/ConcepcionPaul/TapsiloganPOS) - An object-oriented Java and Maven point-of-sale system for a Tapsilogan restaurant
+* [DataSaurus](https://github.com/ConcepcionPaul/DataSaurus) - A Flask and MongoDB search engine
+* [Happy-Ending](https://github.com/ConcepcionPaul/Happy-Ending) - An e-commerce platform for coffins and urns
+* [Votto_system](https://github.com/ConcepcionPaul/Votto_system) - A Node.js and MySQL voting system
+* [KLA_SICK](https://github.com/ConcepcionPaul/KLA_SICK) - A browser-based AR role-playing game — [Live Site](https://kla-sick.onrender.com/)
+* [Nytimes_Clone](https://github.com/ConcepcionPaul/Nytimes_Clone) - A New York Times bestseller frontend — [Live Site](https://concepcionpaul.github.io/Nytimes_Clone/)
+* [The_Mood-API](https://github.com/ConcepcionPaul/The_Mood-API) - A social API for sharing short messages
 
 ---
 
